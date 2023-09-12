@@ -2,6 +2,7 @@
 # Task-1
 <h2>Problem Statement</h2>
 <h2>TO PREDICT THE STOCK PRICE OF ANY COMPANY USING LSTM.</h2>
+<img src = 'https://imgs.search.brave.com/lNYgSr9cnlZVwybp6FcVBYFSX_SNt0mOmtJEMOK0CHQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE1/MDMxNjUwNS9waG90/by9zdG9jay1tYXJr/ZXQtZGF0YS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9eDBm/bDZkRHJxRV81X1hv/M2pWMXR2RWhsQ2lR/Y1VibERubmJfV2xD/S25kND0'>
 <h2>ABOUT DATASET</h2> :
 This dataset contains historical data of Google's stock prices and related attributes. It consists of 14 columns and a smaller subset of 1257 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
 
