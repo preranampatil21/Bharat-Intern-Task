@@ -23,6 +23,6 @@ The columns in the dataset are as follows:
 <li>divCash: The amount of cash dividend paid out to shareholders on the given day.</li>
 <li>splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.</li>
 
-Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
+<br>Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
 
 
